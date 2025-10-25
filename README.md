@@ -1,4 +1,4 @@
-# Authorship-attribution-using-ngram-LMs
+# Authorship-attribution-using-ngram-LLMs
 
 ### Generative and Discriminative Authorship Classifier
 Project Overview
